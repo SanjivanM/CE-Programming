@@ -1,1 +1,1 @@
-This folder contains all of my TI-BASIC math programs.
+This folder contains all of my programs, BASIC and ASM.

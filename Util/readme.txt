@@ -1,1 +1,1 @@
-This folder contains utilities (ASM and BASIC) that are used in other programs or used as stand-alone programs.
+This folder contains utilities (ASM and BASIC) that are used in other programs or used as stand-alone programs.  It also contains the relevant AppVars.
