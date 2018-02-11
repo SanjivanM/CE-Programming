@@ -8,5 +8,5 @@
 |=====================================================|
 |          12 Dec 2017: Auto-Backup enabled           |
 |       08 Feb 2018: added Auto-Backup features       |
-|         10 Feb 2018: Backup fully automated         |
+|    10 Feb 2018: Backup to GitHub fully automated    |
 |-----------------------------------------------------|
