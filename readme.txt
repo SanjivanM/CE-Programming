@@ -1,5 +1,5 @@
 |#####################################################|
-|                CE-BASIC-Programming                 |
+|                   CE-Programming                    |
 |=====================================================|
 |             TI-84+ CE TI-BASIC Programs             |
 |               TI-84+ CE ASM Programs                |
